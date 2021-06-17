@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\App.g.cs
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.cache
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.lref
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.g.resources
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\Views\LibraryManagementSystemWindow.g.cs
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\Views\LibraryManagementSystemWindow.baml
+C:\Users\User\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
